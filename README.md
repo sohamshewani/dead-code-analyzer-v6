@@ -1,0 +1,1 @@
+dead-code-analyzer is a CLI tool designed to analyze Python code for dead code detection, store the analysis results in a SQLite database, and test API endpoints with concurrency. The tool is modular, with separate components for AST analysis, database management, and HTTP testing.
